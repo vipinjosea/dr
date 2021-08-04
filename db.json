@@ -28,14 +28,14 @@
   "options": [
     {
       "id": 1,
-      "enabled": "true",
+      "enabled": true,
       "msg1": "msg1 test1",
       "msg2": "msg2 test1",
       "msg3": "msg3 test1"
     },
     {
       "id": 2,
-      "enabled": "true",
+      "enabled": true,
       "msg1": "msg1 test2",
       "msg2": "msg2 test2",
       "msg3": "msg3 test2"
